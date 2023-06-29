@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Clean the room",
+    "tasks": "clean"
+  },
+  {
+    "id": 2,
+    "name": "Dishes",
+    "tasks": "clean"
+  },
+  {
+    "id": 3,
+    "name": "Go out with the dog",
+    "tasks": "clean"
+  },
+  {
+    "id": 4,
+    "name": "Cook food",
+    "tasks": "clean"
+  },
+  {
+    "id": 5,
+    "name": "Workout",
+    "tasks": "clean"
+  }
+]

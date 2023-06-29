@@ -1,0 +1,19 @@
+* {
+  /* background-color: aliceblue; */
+  background: #111;
+  color: rgb(178, 178, 182);
+}
+
+.loggoutButton {
+  background-color: #00d8ff;
+  color: white;
+  border: none;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.loggoutButton:hover {
+  background-color: #869ca1;
+}

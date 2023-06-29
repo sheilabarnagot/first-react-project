@@ -1,0 +1,86 @@
+* {
+  /* background-color: aliceblue; */
+  background: #111;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80%;
+}
+
+.loggedinContainer {
+  text-align: center;
+  /* margin-top: 70px; */
+}
+
+.introText {
+  margin-bottom: 50px;
+}
+
+.infoText {
+  font-size: 16px;
+  margin-bottom: 20px;
+  color: rgb(178, 178, 182);
+}
+
+.linkText {
+  display: block;
+  margin-bottom: 20px;
+  color: #b2b2b6;
+  text-decoration: underline;
+}
+
+.linkText:hover {
+  color: #00d8ff;
+}
+
+.loggoutButton {
+  background-color: #00d8ff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.welcomeTitle {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 24px;
+  color: rgb(197, 189, 189);
+}
+
+.loginContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.welcomeInputs {
+  color: aliceblue;
+  margin-bottom: 40px;
+  padding: 5px;
+  width: 220px;
+  border: none;
+  border-bottom: 1px solid #373333;
+  outline: none;
+}
+
+.loginButton {
+  background-color: #00d8ff;
+  color: aliceblue;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.loginButton:hover {
+  background-color: #869ca1;
+}
+
+p {
+  font-size: 14px;
+}
